@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Babble</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chat_fragment_title">Chat</string>
+    <string name="contact_fragment_title">Contact</string>
+    <string name="request_fragment_title">Request</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register">New Here? Create an account!</string>
+    <string name="empty_fields">Your fields are empty!</string>
+    <string name="account_creation_confirm">Your account has been created</string>
+    <string name="menu_search_friends">Search Friends</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_logout">Logout</string>
+    <string name="setting_update">Update</string>
+    <string name="succesfully_login">You successfully logged in</string>
+    <string name="auth_failed">Authentication failed.</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="add_friend_confirm">Your friend has been added to your contacts</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register_title">Register</string>
+    <string name="search_friends_activity_name">Search Friends</string>
+</resources>
